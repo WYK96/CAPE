@@ -6,7 +6,7 @@ configparser
 matplotlib
 ConfigArgParse
 tqdm
-tensorflow-gpu==1.13.2
+tensorflow-gpu==1.15.2
 numpy==1.16.1
 torch>=1.2
 smplx==0.1.13
